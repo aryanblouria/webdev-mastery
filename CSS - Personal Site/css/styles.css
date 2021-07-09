@@ -1,0 +1,51 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 40px auto 0 auto;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 3.75em;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-family: 'Lato', sans-serif;
+}
+
+.top {
+  background-color: #FFC074;
+  position: relative;
+  padding-top: 100px;
+}
+
+.mid {
+
+}
+
+.bot {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 450px;
+  bottom: 300px;
+}
