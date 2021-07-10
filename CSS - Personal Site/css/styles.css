@@ -48,9 +48,10 @@ a:hover {
 }
 
 .top {
-  background-color: #FFC996;
+  background-color: #FBC6A4;
   position: relative;
   padding-top: 100px;
+  height: 600px;
 }
 
 .mid {
@@ -77,6 +78,12 @@ a:hover {
   position: absolute;
   left: 400px;
   bottom: 300px;
+}
+
+.mount {
+  position: absolute;
+  left: 500px;
+  bottom: 5px;
 }
 
 .skill-row {
@@ -129,18 +136,11 @@ a:hover {
 }
 
 .btn:hover {
-   border: solid #FFAE00 1px;
-   background: #FFBB02;
-   background-image: -webkit-linear-gradient(top, #FFBB02, #FF9B00);
-   background-image: -moz-linear-gradient(top, #FFBB02, #FF9B00);
-   background-image: -ms-linear-gradient(top, #FFBB02, #FF9B00);
-   background-image: -o-linear-gradient(top, #FFBB02, #FF9B00);
-   background-image: -webkit-gradient(to bottom, #FFBB02, #FF9B00);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
+   border: solid #F6823D 1px;
+   background: white;
    border-radius: 20px;
    text-decoration: none;
-   color: white;
+   color: #F6823D;
 }
 
 .exit {
