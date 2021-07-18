@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+  color: pink;
+}
+
+a:hover {
+  color: white;
+}
+
+.projs {
+  font-family: "";
+  font-size: 2rem;
+  text-align: center;
+  margin: 100px auto;
+}
