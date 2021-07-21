@@ -56,7 +56,7 @@ function startOver() {
 $(document).keypress(function() {
   if (started == false) {
     $("#level-title").text("Level " + level);
-    $("subtext").text("");
+    $("#subtext").text("");
     nextSequence();
     started = true;
   }
