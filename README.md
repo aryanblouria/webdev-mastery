@@ -1,2 +1,2 @@
 # webdev-mastery
-List of all sites created by me while learning Web Development
+List of sites created by me while learning Web Development
