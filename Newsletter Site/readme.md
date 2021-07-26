@@ -1,1 +1,1 @@
-Deployed at https://pure-peak-13842.herokuapp.com/
+Deployed at https://spectronews.herokuapp.com/
