@@ -1,0 +1,206 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body
+{
+  margin: 0;
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  overflow-x: hidden;
+}
+
+hr {
+  width: 40%;
+  margin-top: 40px;
+}
+
+textarea {
+  vertical-align: top;
+  background-color: black;
+  border-color: white;
+  color: white;
+}
+
+input {
+  margin-bottom: 10px;
+  background-color: black;
+  border-color: white;
+  color: white;
+}
+
+.aboutme {
+  width: 30%;
+  margin-top: 20px;
+  text-align: center;
+  float: right;
+}
+
+.bannerimg {
+  height: 420px;
+  width: 100%;
+  margin-top: 60px;
+  padding-bottom: 0;
+}
+
+.blog {
+  width: 100%;
+  padding: 30px 50px 10px;
+}
+
+.blogimg {
+  height: 420px;
+  width: 700px;
+  padding: 5px;
+}
+
+.button {
+  margin-top: 10px;
+  height: 30px;
+  width: 75px;
+  background-color: black;
+  border-color: white;
+  color: white;
+}
+
+.city {
+  width: 46.5%;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.city h1 {
+  text-decoration: underline;
+}
+
+.contact {
+  padding: 20px;
+  text-align: center;
+}
+
+.home {
+  height: 400px;
+  width: 60%;
+  padding: 25px 50px;
+  display: inline-block;
+  text-align: justify;
+}
+
+.input {
+  padding: 10px;
+}
+
+.logo {
+  display: inline-block;
+  padding: 0 40px;
+  margin-right: 65%;
+  font-size: 1.3rem;
+}
+
+.logo a {
+  text-decoration: none;
+  color: white;
+}
+
+.logo a:hover {
+  color: silver;
+}
+
+.nav {
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  z-index: 1;
+}
+
+.navitem {
+  text-decoration: none;
+  margin: 25px;
+  color: white;
+}
+
+.navitem:hover {
+  margin: 25px;
+  color: silver;
+}
+
+.paris {
+  float: left;
+  position: relative;
+}
+
+.paris .img-text {
+  position: absolute;
+  top: 0;
+  margin-left: 20px;
+  visibility: hidden;
+  float: left;
+}
+
+.paris:hover .img-text {
+  visibility: visible;
+  background: transparent;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.london .img-text {
+  position: absolute;
+  z-index: 1;
+  top: 1080px;
+  margin-left: 730px;
+  visibility: hidden;
+}
+
+.london:hover .img-text {
+  visibility: visible;
+  background: transparent;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.bangkok {
+  float: left;
+}
+
+.bangkok .img-text {
+  z-index: 1;
+  position: absolute;
+  margin-left: 20px;
+  top: 1515px;
+  visibility: hidden;
+}
+
+.bangkok:hover .img-text {
+  visibility: visible;
+  background: transparent;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.dubai .img-text {
+  z-index: 1;
+  position: absolute;
+  margin-left: 730px;
+  top: 1515px;
+  visibility: hidden;
+}
+
+.dubai:hover .img-text {
+  visibility: visible;
+  background: transparent;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.radio {
+  margin: 0 10px;
+}
+
+.traveller {
+  height: 300px;
+  width: 300px;
+  margin-top: 15px;
+  border-radius: 50%;
+}
